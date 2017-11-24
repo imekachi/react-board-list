@@ -8,4 +8,6 @@ export const COLORS = {
   GRAY_DARK_3: '#333333',
 
   ORANGE_THEME: '#F37A01',
+  ORANGE_THEME_LIGHT: '#FF8E1C',
+  RED: '#F23535',
 }
