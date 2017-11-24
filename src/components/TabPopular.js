@@ -2,7 +2,7 @@ import React from 'react'
 import styled, { css } from 'styled-components'
 
 import { COLORS } from '../styles/colors'
-import { FONT_FAMILTY } from '../styles/fonts'
+import { FONT_FAMILIES } from '../styles/fonts'
 
 const Wrapper = styled.nav`
   display: table;
@@ -23,7 +23,7 @@ const TabButtonStyle = styled.a`
   vertical-align: middle;
   text-align: center;
   
-  font-family: ${FONT_FAMILTY.SUKHUMVIT};
+  font-family: ${FONT_FAMILIES.SUKHUMVIT};
   font-size: 21px;
   font-weight: 100;
   line-height: 1;

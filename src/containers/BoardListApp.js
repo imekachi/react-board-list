@@ -18,9 +18,9 @@ const topicList = [
     ownerAlias: 'miss.angelwitch',
     previewImageUrl: 'https://image.dek-d.com/1/bicon/0380/3809359_5a157325d7558_big.jpg',
     previewText: 'นำเสนอต่อจากที่แนะนำซีรีย์ที่จะออกอากาศในเร็วนี้ปี2017 ซีรีย์จีนที่กำลังจะออกอากาศเร็วๆนี้(2017) น่าดูมาก!',
-    like: 7,
-    comment: 12,
-    share: 25,
+    likes: 7,
+    comments: 12,
+    shares: 25,
   }
 ]
 

@@ -4,7 +4,7 @@ import styled from 'styled-components'
 import TopicListItem from './TopicListItem'
 
 const Wrapper = styled.div`
-
+  background-color: #FFFFFF;
 `
 
 const ListBox = styled.div`
